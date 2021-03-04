@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f0a888b7443d28d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d0fd724316691d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a4af306ca05412",
+    "type": "split",
+    "children": [
+      {
+        "id": "10cfb60509e9c018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7aca2a400410b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9d52f96f538d2c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fef0a1de0561e947",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0a48232f7767b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7263793a672dc68a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
+    "node_modules/gatsby-plugin-mdx/README.md",
+    "content/notes/Hello world.md",
+    "content/notes/Second Note.md"
+  ]
+}
