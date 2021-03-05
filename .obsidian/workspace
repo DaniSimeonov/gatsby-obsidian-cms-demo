@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
+            "file": "content/notes/Possible solutions.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
+                "file": "content/notes/Possible solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "content/notes/Possible solutions.md",
+    "content/notes/Hello world.md",
+    "content/notes/goJS notes.md",
     "node_modules/gatsby-plugin-mdx/CHANGELOG.md",
     "node_modules/gatsby-plugin-mdx/README.md",
-    "content/notes/Hello world.md",
     "content/notes/Second Note.md"
   ]
 }

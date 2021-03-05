@@ -1,3 +1,8 @@
+---
+title: Possible Solutions
+date: 2020-10-14T13:22
+---
+
 # Interactive expandable tree diagram
 ![[interactive-flowchart.mp4]]
 
